@@ -1,4 +1,5 @@
-## Hi there 👋
+# Welcome!
+My name is Ricardo Oliveira Stumm(that's where rick-os comes from), Im currently studing computer engineering at UTFPR ( Universidade Tecnologica Federal do Paraná), Pato Branco - Paraná.
 
 <!--
 **rick-os/rick-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
