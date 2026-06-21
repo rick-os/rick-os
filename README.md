@@ -2,6 +2,7 @@
 My name is Ricardo Oliveira Stumm(that's where rick-os comes from). I'm currently studing computer engineering at UTFPR (Universidade Tecnológica Federal do Paraná), Pato Branco - Paraná.
 
 Math, logic, physics and computation are my favorite fields of knowledge, but I'm also very curious about every single field...
+[![Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=214c4kpsi4lt6u5hkin2rncia)](https://data-card-for-spotify.herokuapp.com/card?user_id=214c4kpsi4lt6u5hkin2rncia)
 <!--
 **rick-os/rick-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
